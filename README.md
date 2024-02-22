@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**maripenha/maripenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Mariana Segovia Penha [Eng]
+
+
+I am 17 years old, estou no primeiro semestre de ciência da computação, possuo inglês avançado e cursei o ensino médio na ETEC, atualmente estou estudando front end no programa Ford <ENTER> disponibilizado pela empresa Ford Motor Company.
+
+## Formação
+
+### Tecnologias que estou aprendendo:
+
+
+# Mariana Segovia Penha [pt-BR]
+
+
+Tenho 17 anos, estou no primeiro semestre de ciência da computação, possuo inglês avançado e cursei o ensino médio na ETEC, atualmente estou estudando front end no programa **Ford <ENTER>** disponibilizado pela empresa *Ford Motor Company*.
+
+## Formação
+
+### Tecnologias que estou aprendendo:
