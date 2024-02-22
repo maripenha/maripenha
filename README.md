@@ -1,4 +1,4 @@
-### Hi there 👋
+#
 
 <!--
 - 🔭 I’m currently working on ...
@@ -10,21 +10,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Mariana Segovia Penha [Eng]
+## Mariana Segovia Penha 
 
-
-I am 17 years old, estou no primeiro semestre de ciência da computação, possuo inglês avançado e cursei o ensino médio na ETEC, atualmente estou estudando front end no programa Ford <ENTER> disponibilizado pela empresa Ford Motor Company.
-
-## Formação
-
-### Tecnologias que estou aprendendo:
-
-
-# Mariana Segovia Penha [pt-BR]
-
-
-Tenho 17 anos, estou no primeiro semestre de ciência da computação, possuo inglês avançado e cursei o ensino médio na ETEC, atualmente estou estudando front end no programa **Ford <ENTER>** disponibilizado pela empresa *Ford Motor Company*.
+I am a 17 years old girl native of São Paulo, Brazil.
+I am starting my first semester of computer science at "Impacta" college, I attended high school at ETEC and I am currently styudying front end in the a Ford <ENTER> program, provided by Ford Motor Company. My native language is brazilian portuguese but I also speak english fluently!
 
 ## Formação
 
 ### Tecnologias que estou aprendendo:
+
+
