@@ -2,15 +2,12 @@
 
 
 
-## Currently learning:
+## Tecnologias
 
 * HTML
 * CSS
 * JavaScript
-* Git / Git Bash
-* GitHub
-* PowerShell
-* Markdown
+* Python
 
 <div align="center">
 <picture>
